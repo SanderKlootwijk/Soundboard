@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the soundboard.sanderklootwijk package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: soundboard.sanderklootwijk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-05 21:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:36 soundboard.desktop.in.h:1
+msgid "Soundboard"
+msgstr ""
+
+#: ../qml/Main.qml:46
+msgid "About"
+msgstr ""
+
+#: ../qml/Main.qml:93
+msgid "General"
+msgstr ""
+
+#: ../qml/Main.qml:96
+msgid "Movie"
+msgstr ""
+
+#: ../qml/Main.qml:99
+msgid "Game"
+msgstr ""
+
+#: ../qml/Main.qml:102
+msgid "Ringtones"
+msgstr ""
