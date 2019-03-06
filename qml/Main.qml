@@ -9,7 +9,7 @@ import Qt.labs.settings 1.0
 MainView {
   id: root
   objectName: 'mainView'
-  applicationName: 'radionl.sanderklootwijk'
+  applicationName: 'soundboard.sanderklootwijk'
   automaticOrientation: true
 
   width: units.gu(45)
