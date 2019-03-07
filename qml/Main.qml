@@ -51,11 +51,11 @@ MainView {
           id: themeAction
           text: {
             if (settings.theme == "Ambiance"){
-              "Night Mode"
+              i18n.tr("Night Mode")
 
             }
             else {
-              "Day Mode"
+              i18n.tr("Day Mode")
             }
           }
           iconSource: {
