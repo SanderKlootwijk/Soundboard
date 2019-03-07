@@ -1,5 +1,7 @@
 [Desktop Entry]
 _Name=Soundboard
+Name[fr]=Boîte à sons
+Name[nl]=Soundboard
 Exec=qmlscene qml/Main.qml
 Icon=assets/Soundboard.svg
 Terminal=false
