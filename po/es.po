@@ -1,0 +1,51 @@
+# Spanish translation for soundboard.sanderklootwijk.
+# Copyright (C) 2019 UBports Spanish Team
+# This file is distributed under the same license as the soundboard.sanderklootwijk package.
+# Krakakanok Krakakanok@protonmail, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: soundboard.sanderklootwijk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-07 22:13+0000\n"
+"PO-Revision-Date: 2019-03-10 17:15+0100\n"
+"Language-Team: UBports Spanish Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: Krakakanok <Krakakanok@protonmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: ../qml/Main.qml:36 soundboard.desktop.in.h:1
+msgid "Soundboard"
+msgstr "Soundboard"
+
+#: ../qml/Main.qml:46
+msgid "About"
+msgstr "Acerca de"
+
+#: ../qml/Main.qml:54
+msgid "Night Mode"
+msgstr "Modo Noche"
+
+#: ../qml/Main.qml:58
+msgid "Day Mode"
+msgstr "Modo Día"
+
+#: ../qml/Main.qml:93
+msgid "General"
+msgstr "General"
+
+#: ../qml/Main.qml:96
+msgid "Movie"
+msgstr "Película"
+
+#: ../qml/Main.qml:99
+msgid "Game"
+msgstr "Juego"
+
+#: ../qml/Main.qml:102
+msgid "Ringtones"
+msgstr "Tonos de llamada"
