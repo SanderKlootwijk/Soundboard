@@ -371,6 +371,13 @@ MainView {
 
             SoundButton {
               width: parent.width
+              color: "#65e732"
+              text: ("Dial-up")
+              soundSource: "mp/dialup.ogg"
+            }
+
+            SoundButton {
+              width: parent.width
               color: "#935c5b"
               text: ("Donald Duck Angry")
               soundSource: "mp/donaldduckangry.ogg"
